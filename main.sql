@@ -1,4 +1,4 @@
-USE MASTER    
+   
 CREATE DATABASE test   -- to create database named "test".
 ON PRIMARY   -- to add files with mdf,ndf and ldf extention.
 (NAME=Firefighter_Station1,   -- the name of primary file.
